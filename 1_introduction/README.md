@@ -5,8 +5,7 @@ This lesson is about creation of **shallow** neural network for **binary classif
 ## Dictionary
 **Classic programming vs machine learning**
 
-![1_classic_vs_ml](./images/1_classic_vs_ml.jpg)
-- Supervised vs Unsupervised machine learning
+![1_classic_vs_ml](./images/1_classic_vs_ml.jpg)  
 - Classification vs Regression
     - Classification: is the problem of identifying to which of a set of categories (sub-populations) a new observation belongs [wiki](https://en.wikipedia.org/wiki/Statistical_classification)
     - Regression:  is a set of statistical processes for estimating the relationships among variables. [wiki](https://en.wikipedia.org/wiki/Regression_analysis)
