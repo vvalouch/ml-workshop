@@ -39,6 +39,7 @@ pip install pandas
 pip install numpy
 pip install jupyter
 pip install joblib
+pip install matplotlib
 ```
 
 ### 1b) Docker style
