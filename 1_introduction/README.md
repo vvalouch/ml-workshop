@@ -74,6 +74,7 @@ Open/Upload random_sample.ipynb to your running `jupyter notebook` and start to 
 - change the count of generated sample rows
 - change the data generation equation to `y = 1 if x1%5==0 else 0` 
 - change the data generation equation to `y = 1 if (x1+x2+x3>x3/3) else 0`
+- add new feature `x4` 
 - try different classifier like [`tree.DecisionTreeClassifier()`](https://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html) or [naive bayes Gausian]() and compare their performance
 - check and try to use [GridSearchCV](https://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html)
  
