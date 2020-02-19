@@ -6,11 +6,13 @@
 
 1. Introduction & Binary classification
 2. Introduction to AutoML
-x. Text data pre-processing, Multiclass Classification
-x. MultiLabel Classification & Regression
-x. Deep Neural Networks 1/2
-x. Deep Neural Networks 2/2
-x. Generative adversarial networks
-x. Reinforcement learning
+
+## Future schedule
+* Text data pre-processing, Multiclass Classification
+* MultiLabel Classification & Regression
+* Deep Neural Networks 1/2
+* Deep Neural Networks 2/2
+* Generative adversarial networks
+* Reinforcement learning
 
 
