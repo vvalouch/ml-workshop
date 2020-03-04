@@ -5,11 +5,14 @@
 ## Lessons Schedule
 
 1. Introduction & Binary classification
-2. Text data pre-processing, Multiclass Classification
-3. MultiLabel Classification & Regression
-4. Deep Neural Networks 1/2
-5. Deep Neural Networks 2/2
-6. Generative adversarial networks
-7. Reinforcement learning
+2. Introduction to AutoML
+
+## Future schedule
+* Text data pre-processing, Multiclass Classification
+* MultiLabel Classification & Regression
+* Deep Neural Networks 1/2
+* Deep Neural Networks 2/2
+* Generative adversarial networks
+* Reinforcement learning
 
 
