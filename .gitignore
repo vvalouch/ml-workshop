@@ -102,3 +102,10 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+2_AutoML_introduction/save
+2_AutoML_introduction/ludwig
+*.csv
+*.hdf5
+*.json
+.DS_Store
+.idea/

@@ -53,20 +53,21 @@ docker run -p 8888:8888 jupyter/scipy-notebook
 ```
 
 ### 4) MLBox
+#### 4.1) "Hello World" example
+Open/Upload lesson_2_mlbox.ipynb to your running `jupyter notebook` and check **"Hello World"** that was prepared for you. You will see that the file contains sample data generator. 
 
-Open/Upload lesson_2_mlbox.ipynb to your running `jupyter notebook` and start to play. You will see that the file contains sample data generator. 
-
-*Try following tasks:*
+#### 4.2) Tasks to complete
 - change the count of generated sample rows
 - change the data generation equation to `y = 1 if x1%5==0 else 0` 
 - change the data generation equation to `y = 1 if (x1+x2+x3>x3/3) else 0`
 - reduce the features count to 4
 - !!!change the data generation equation to `y = x1+x2` !!! This is changing the task from binary classification task to regression(value prediction) task
 
-
 ### 5) Ludwig
-Open/Upload lesson_2_ludwig.ipynb to your running `jupyter notebook` and start to play. You will see that the file contains sample data generator. 
+#### 5.1) "Hello World" example
+Open/Upload lesson_2_ludwig.ipynb to your running `jupyter notebook` and check **"Hello World"** that was prepared for you. You will see that the file contains sample data generator. 
 
+#### 5.2) Tasks to complete
 *Try following tasks:*
 - change the count of generated sample rows
 - change the data generation equation to `y = 1 if x1%5==0 else 0` 
